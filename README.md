@@ -15,7 +15,7 @@ The idea was to club similar time-series data together and build models in way w
 
 Descriptive Statistics has been used to club similar data together. The way the entire data set has been split and clubbed is shown in the image below:
 
-![Data Splitting Schema](https://github.com/AnishDelft/maersk_data_challenge/blob/Main/source/model_data_split.png?raw=true)
+![Data Splitting Schema](https://github.com/AnishDelft/maersk_data_challenge/blob/Main/model_data_split.png?raw=true)
 
 The outlier removal has been done to find and remove outlier in a month's data for the subset of the data set that has been created as the quantum of time here is a month
 
